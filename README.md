@@ -67,18 +67,7 @@ Instead of directly predicting prices, this system:
 
 ## System Architecture
 
-Market Data → Feature Extraction → Regime Detection
-↓
-Strategy Set Generation
-↓
-LLM Debate Engine (Game Theory Layer)
-↓
-Strategy Selection
-↓
-Payoff Simulation + Visualization
-↓
-Backtesting Engine
-
+Market Data → (Feature Extraction → Regime Detection) → Strategy Set Generation → LLM Debate Engine (Game Theory Layer) → Strategy Selection → Payoff Simulation + Visualization → Backtesting Engine
 
 ---
 
