@@ -152,6 +152,13 @@ This system:
 
 ---
 
+## Author's Note
+
+This project is an attempt to bridge:
+Quantitative finance × Game theory × AI reasoning
+and explore how modern AI can simulate real trading thought processes, not just outputs.
+
+
 ## How to Run
 
 ```bash
@@ -159,8 +166,4 @@ python main.py
 
 
 
-Author's Note
 
-This project is an attempt to bridge:
-Quantitative finance × Game theory × AI reasoning
-and explore how modern AI can simulate real trading thought processes, not just outputs.
